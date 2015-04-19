@@ -1,0 +1,1 @@
+This is a 2D run and jump game, to play simply run the main.py
